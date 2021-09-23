@@ -1,0 +1,2 @@
+# netstart
+Netstat /all
